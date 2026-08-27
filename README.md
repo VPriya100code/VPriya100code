@@ -46,29 +46,10 @@
 🔹....
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VPriya100code&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VPriya100code&theme=tokyonight" height="180"/>
-</p>
-
----
-
 ## 🧠 Currently Learning
 - 🤖 Machine Learning & AI
 - 🌐 Full Stack Development
 - ⚡ Data Structures & Algorithms
-
----
-
-## 🎯 Goals
-✔ Build impactful AI projects  
-✔ Crack top internships   🚀  
-
----
-
-## 💬 Quote
-> “Code. Learn. Build. Repeat. 💙”
 
 ---
 
